@@ -1,3 +1,4 @@
+Bem vindo ao meu projeto! 👨🏻‍💻
 
 Neste projeto era necessário uma análise de dados com Python juntamente a biblioteca Pandas.
 
